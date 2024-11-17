@@ -1,4 +1,4 @@
-# lovejoint Documentation
+# Lovejoint Documentation
 
 Love Joint is a  focused  Product Engineering enterprise business. It specialises in Nutraceutical  Lifestyle & Healthy Living Boosters®.
 
