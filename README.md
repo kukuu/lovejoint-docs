@@ -86,7 +86,7 @@ relational databases. It's particularly popular in the Node.js ecosystem and is 
 - next.config.js
   - ensure you have listed all the domains you will be using for images in next.config.js. Like drive.google.com or cloudinary.com etc.
 - .env
-  - Replace DATABASE_URL with actual database url from Supabase dashboard. [DB setup](docs/databaseSetup.md) | [Prisma ORM](docs/workingWithPrisma.md)
+  - Replace DATABASE_URL with actual database url from Supabase dashboard. (* held in private repository).
   - NEXTAUTH_URL has to be replaced with your domain.
   - SECRET can be generate using secret generator site like -
   - Ensure you have duly populated all the id and secret field for different auth provider like Google, Facebook, Twitter etc.
@@ -97,7 +97,7 @@ relational databases. It's particularly popular in the Node.js ecosystem and is 
   - STRIPE_WEBHOOK_SECRET has to be generated using CLI or using Stripe dashboard.
   - [Stripe Setup](docs/stripeSetup.md)
 
-### [References/docs](docs/allReferences.md)
+### [References/docs](docs/allReferences.md) - (* held in private repository).
 
 ### Adding Mutiple Product Images
 1. Prisma schema update
