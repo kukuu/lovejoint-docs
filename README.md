@@ -4,6 +4,10 @@ Love Joint is a  focused  Product Engineering enterprise business. It specialise
 
 In this project, we will be using Apollo Server and Apollo client libraries to handle data fetching. We will also dockerize it. 
 
+### Repository (* Private)
+
+https://github.com/kukuu/lovejoint
+
 ### Technologies
 
 1. Next.js
