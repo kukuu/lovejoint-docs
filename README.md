@@ -19,7 +19,7 @@ https://github.com/kukuu/lovejoint
 7. Heroku (for deployment) 
 8. Jest for unit testing
 9. Cypress (e2e)
-10. Supabase (Postgres Database service) - middleware to connect Prisma Studio to Postgres in AWS.
+10. Supabase (Postgres Database service) - middleware to connect Prisma Studio to Postgres in AWS. 
 11. Nexus ( Adding typedefs to Graph QL)
 12. Prisma (Middleware -  ORM to work with Postgres Database like - modelling, migration,generate SQL query)
 13. Prisma Client- It simplifies database access and management in web and application development, providing a higher-level, type-safe interface for working with
