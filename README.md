@@ -15,7 +15,7 @@ https://www.lovejoint.store/
 ### Technologies
 
 1. Next.js
-2. React 
+2. React  
 3. ApolloGraphQL 
 4. TailwindCSS
 5. Casual ( for fake data)
