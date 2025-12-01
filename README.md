@@ -1,4 +1,4 @@
-# Love Joint Documentation
+# Love Joint 
 
 Love Joint is a  focused  Product Engineering online  enterprise platform. It specialises in Nutraceutical  Lifestyle & Healthy Living Boosters®.
 
