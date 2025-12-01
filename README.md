@@ -15,9 +15,7 @@ https://www.lovejoint.store/
 ### Overview
 
 
-- **What is 6 DRIVE?**
-
-The Power of Nature. 100% Organic Tree Bark. Natural testosterone boosters for males and females to stay energised for days. Improves menopause symptoms and hot flashes - 30 tablets.
+- **What is 6 DRIVE?**: A brand of Love Joint. It is regarded as **"The Power of Nature".** 100% Organic Tree Bark. Natural testosterone boosters for males and females to stay energised for days. Improves menopause symptoms and hot flashes - 30 tablets.
 
 
 
