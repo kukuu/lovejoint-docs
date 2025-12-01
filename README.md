@@ -142,3 +142,6 @@ npx prisma migrate dev
 
 ```
 will have to be executed.
+
+## Marketing Forecast
+https://github.com/kukuu/lovejoint-docs/blob/main/6-DRIVE-marketing-strategy-forecast.md
