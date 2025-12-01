@@ -39,7 +39,7 @@ Lovejoint operates a niche, premium nutraceutical brand with a unique, complex s
   - Valuation Driver: The business transforms from a single-product store to a recognized platform brand ("Lovejoint") with a core hero product.
   - Team Expansion: Likely requires hiring specialists in supply chain management, digital marketing, and customer service.
 
-### Phase 3: Consolidation & Premiumization (Years 7-10)
+### Phase 3: Consolidation & Premiumisation (Years 7-10)
   - Primary Goal: Cement market position, explore new channels, and maximize customer lifetime value.
   - Marketing Focus:
   - Retail & B2B Partnerships: Explore limited placement in high-end boutique pharmacies, wellness clinics, or men's health centers in key cities (Dubai, London, Singapore).
