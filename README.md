@@ -2,7 +2,7 @@
 
 Love Joint is a  focused  Product Engineering online  enterprise platform. It specialises in Nutraceutical  Lifestyle & Healthy Living Boosters®.
 
-In this project, we will be using Apollo Server and Apollo client libraries to handle data fetching. We will also dockerize it. 
+The project uses Apollo Server and Apollo client libraries to handle data fetching. CI/CD deployments are via Docker. 
 
 ### Repository (* Private)
 
