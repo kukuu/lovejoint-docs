@@ -98,3 +98,7 @@ Conclusion: Viability Outlook
 Highly Viable, with Conditions. The initial £12,000 investment has generated a business with proven demand and a clear premium positioning. The single greatest determinant of success over 10 years is the ability to transform the current logistical operation from a bottleneck into a scalable, reliable, and efficient competitive advantage.
 
 If the company successfully navigates the scaling challenge in Phase 1, it has a clear path to becoming a profitable, sustainable, and ultimately saleable business within the decade. Its unique story of global sourcing and European scientific rigor provides a defensible brand moat in a crowded market. The focus must remain on quality, authenticity, and community while building operational excellence.
+
+## Home 
+
+https://github.com/kukuu/lovejoint-docs/tree/main
