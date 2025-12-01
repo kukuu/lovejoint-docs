@@ -1,6 +1,6 @@
 # Love Joint Documentation
 
-Love Joint is a  focused  Product Engineering enterprise business. It specialises in Nutraceutical  Lifestyle & Healthy Living Boosters®.
+Love Joint is a  focused  Product Engineering online  enterprise platform. It specialises in Nutraceutical  Lifestyle & Healthy Living Boosters®.
 
 In this project, we will be using Apollo Server and Apollo client libraries to handle data fetching. We will also dockerize it. 
 
