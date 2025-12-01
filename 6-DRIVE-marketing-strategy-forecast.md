@@ -55,8 +55,7 @@ Lovejoint operates a niche, premium nutraceutical brand with a unique, complex s
   - Supply Chain Fragility: The multi-country (Africa -> UK -> Hungary) chain is a unique selling point but also a major risk.
       - Mitigation: Develop strategic inventory buffers; dual-source key ingredients where possible; invest in supply chain visibility software.
   - Regulatory Changes: Nutraceutical claims are heavily scrutinized.
-
-Mitigation: Work with EU regulatory consultants; ensure all marketing claims are substantiated by the existing documentation and future studies; be transparent.
+     - Mitigation: Work with EU regulatory consultants; ensure all marketing claims are substantiated by the existing documentation and future studies; be transparent.
 
 Counterfeit/Imitation: Success will attract copycats.
 
