@@ -1,4 +1,6 @@
-# Executive Summary & Core Assumptions
+# 6 DRIVE Marketing Forecast
+
+## Executive Summary & Core Assumptions
 Lovejoint operates a niche, premium nutraceutical brand with a unique, complex supply chain. The core strengths are a validated product with clear demand (exceeding supply), a distinct international customer base, and a high-margin potential. The primary challenges are supply chain scalability, logistics formalization, and brand awareness beyond its current strongholds.
 
 Key Assumptions for the Forecast:
